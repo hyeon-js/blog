@@ -1,2 +1,2 @@
 # Hyeon.js' Blog
-© 2023 Hyeon.js, All rights reserved.
+© 2022-2023 Hyeon.js, All rights reserved.

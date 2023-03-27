@@ -12,20 +12,19 @@ featured-img: windows-disk-partition.png
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/windows-disk-partition/0.png)
 
-
-
+<br/>
 
 줄이려는 파티션 위에서 마우스 오른쪽 클릭한 뒤에 `볼륨 축소` 클릭
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/windows-disk-partition/1.png)
 
-
+<br/>
 
 그러면 줄일 수 있는 크기 같은게 나오고, 거기서 얼마나 줄일지 입력하시면 되는거에요.
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/windows-disk-partition/2.png)
 
-
+<br/>
 
 일단 전 `16GiB`를 줄여보았어요.
 

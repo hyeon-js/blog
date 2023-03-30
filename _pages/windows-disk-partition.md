@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "파티션 용량 줄이기"
+title: "윈도우에서 파티션 용량 줄이기"
 featured-img: windows-disk-partition.png
 ---
-
-# 윈도우에서 파티션 용량 줄이기
-
-***
 
 화면 왼쪽 하단이나 그 근처에 있을 윈도우 로고를 마우스 오른쪽 클릭한 뒤에 `디스크 관리`를 눌러주세요.
 

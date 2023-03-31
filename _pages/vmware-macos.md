@@ -9,7 +9,7 @@ featured-img: vmware-macos.png
 ![image]({{site.url}}{{site.baseurl}}/assets/images/vmware-macos/0.png)
 
 <br />
-[여기를 눌러서](https://github.com/paolo-projects/unlocker/releases) unlocker를 다운로드 받으시고, 압축을 푸신 뒤에 win-install.bat` 파일을 관리자 권한으로 실행해주세요.
+[여기를 눌러서](https://github.com/paolo-projects/unlocker/releases) unlocker를 다운로드 받으시고, 압축을 푸신 뒤에 `win-install.bat` 파일을 관리자 권한으로 실행해주세요.
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/vmware-macos/1.png)
 

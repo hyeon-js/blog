@@ -4,7 +4,7 @@ title: "VMWare에 macOS High Sierra 설치하기"
 featured-img: vmware-macos.png
 ---
 
-새로 가상머신을 추가하려고 하는데, macOS가 안보일거에요,
+새로 가상머신을 추가하려고 하는데, macOS가 안보일거에요.
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/vmware-macos/0.png)
 

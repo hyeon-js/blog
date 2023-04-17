@@ -1,2 +1,2 @@
-# [Hyeon.js' Blog](https://hyeon-js.github.io/blog/)
+# Hyeon.js' Blog
 © 2022-2023 Hyeon.js, All rights reserved.

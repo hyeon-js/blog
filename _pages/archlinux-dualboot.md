@@ -282,7 +282,7 @@ featured-img: archlinux-dualboot.jpg
 
 <br />
 `Ctrl + Alt + F2` 같은 명령어를 통해, 아무튼 마지막에 F1, F2, F3 막 눌러보다가 보면 이런 CLI 화면으로 다시 나올 수 있어요.
-root 계정으로 로그인한 뒤에 다음 명령어를 입력해서 `konsole` 설치 후 재부팅
+root 계정으로 로그인한 뒤에 다음 명령어를 입력해서 `konsole` 설치 후 재부팅.
 ```
 pacman -S konsole
 ```

@@ -256,7 +256,7 @@ featured-img: archlinux-dualboot.jpg
 
 # 같이 설치된 윈도우 찾아오기 등
 
-`grub`가 리눅스는 잘 찾았는데, 같이 깔려있는 윈도우는 못찾고 있어요. 일단 저 상태에서 엔터를 치시거나 좀 기다리시면 리눅스로 켜질건데
+`grub`가 리눅스는 잘 찾았는데, 같이 깔려있는 윈도우는 못찾고 있어요. 일단 저 상태에서 엔터를 치시거나 좀 기다리시면 리눅스로 켜질건데,
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/archlinux-dualboot/27.png)
 

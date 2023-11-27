@@ -20,7 +20,7 @@ featured-img: git-pages.png
 ![image]({{site.url}}{{site.baseurl}}/assets/images/git-pages/2.png)
 
 <br />
-`Save` 버튼을 누르시면
+`Save` 버튼을 누르시면,
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/git-pages/3.png)
 
@@ -31,7 +31,7 @@ featured-img: git-pages.png
 
 <br />
 무언가가 실행중일텐데, 저게 모두 성공적으로 끝나야 사이트가 보이거나, 사이트를 수정한 내용이 반영될거에요. 
-갈색 점을 누르면 보이는 메뉴에서 `Details`라는 문구를 누르면
+갈색 점을 누르면 보이는 메뉴에서 `Details`라는 문구를 누르면,
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/git-pages/5.png)
 

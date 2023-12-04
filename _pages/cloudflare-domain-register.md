@@ -53,7 +53,7 @@ featured-img: cloudflare-domain-register.png
 
 <br/>
 
-`Complete puchase` 버튼을 누르면
+`Complete puchase` 버튼을 누르면,
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/cloudflare-domain-register/7.png)
 

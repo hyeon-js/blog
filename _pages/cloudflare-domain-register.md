@@ -13,7 +13,7 @@ featured-img: cloudflare-domain-register.png
 
 <br/>
 
-저기서 원하는 도메인을 검색하시면 되는데, 이런식으로 이미 누군가가 사용중인 도메인이나, `CloudFlare`에서 지원하지 않는 최상위 도메인의 경우는 사용할 수 없다고 나올거고
+저기서 원하는 도메인을 검색하시면 되는데, 이런식으로 이미 누군가가 사용중인 도메인이나, `CloudFlare`에서 지원하지 않는 최상위 도메인의 경우는 사용할 수 없다고 나올거고,
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/cloudflare-domain-register/1.png)
 

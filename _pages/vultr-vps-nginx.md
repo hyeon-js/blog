@@ -16,7 +16,7 @@ featured-img: vultr-vps-nginx.jpg
 ![image]({{site.url}}{{site.baseurl}}/assets/images/vultr-vps-nginx/1.png)
 
 <br />
-아입할 때 입력했던 이메일도 활성화시키고
+가입할 때 입력했던 이메일도 활성화시키고
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/vultr-vps-nginx/2.png)
 

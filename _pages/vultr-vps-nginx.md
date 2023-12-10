@@ -16,7 +16,7 @@ featured-img: vultr-vps-nginx.jpg
 ![image]({{site.url}}{{site.baseurl}}/assets/images/vultr-vps-nginx/1.png)
 
 <br />
-가입할 때 입력했던 이메일도 활성화시키고
+가v입할 때 입력했던 이메일도 활성화시키고
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/vultr-vps-nginx/2.png)
 
@@ -45,7 +45,7 @@ featured-img: vultr-vps-nginx.jpg
 ![image]({{site.url}}{{site.baseurl}}/assets/images/vultr-vps-nginx/6.png)
 
 <br />
-백업이라거나 그런건 전부 필요하지 않는 관계로 다 안쓰는걸로 하고
+백업이라거나 그런건 전부 필요하지 않는 관계로 다 안쓰는걸로 하고,
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/vultr-vps-nginx/7.png)
 

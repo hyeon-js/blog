@@ -26,3 +26,7 @@ featured-img: windows-partition-mount-error.png
 저기서 다시 시작 및 복구 같은걸 선택하면 컴퓨터가 재부팅되면서 알아서 오류를 수정할거에요.
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/windows-partition-mount-error/2.png)
+
+<br/>
+
+이제 리눅스로 부팅해서 마운트를 시도해보면 아주 잘 될 거에요.

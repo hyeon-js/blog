@@ -23,7 +23,7 @@ featured-img: windows-partition-mount-error.png
 <br/>
 
 윈도우로 부팅한 상태라는 것은 현재 해당 파티션(드라이브)를 사용 중이라는 뜻이기 때문에, 오류 수정 등이 불가능해요.
-저기서 다시 시작 및 복구 같은걸 선택하면 컴퓨터가 재부팅되면서 알아서 오류를 수정할거에요.
+저기서 다시 시작 및 복구 같은걸 선택하면 컴퓨터가 재부팅되는 시점에 알아서 오류를 수정할거에요.
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/windows-partition-mount-error/2.png)
 

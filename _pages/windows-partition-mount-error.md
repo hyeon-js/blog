@@ -5,6 +5,7 @@ featured-img: windows-partition-mount-error.png
 ---
 
 아무것도 안했는데 갑자기 `윈도우가 설치된 파티션`을 리눅스에서 마운트하지 못하는 경우가 있어요.
+근데, 사실 가만 생각해보면 윈도우로 부팅된 상태에서 강제 종료 등을 했을지도 몰라요.
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/windows-partition-mount-error/0.png)
 

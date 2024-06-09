@@ -4,7 +4,7 @@ title: "깃허브 호스팅 사용하기 (repository를 사이트로 사용)"
 featured-img: git-pages.png
 ---
 
-깃허브에 올려둔 `repository`를 정적 호스팅을 하는게 가능해요.
+깃허브에 올려둔 `repository`는 정적 호스팅을 하는게 가능해요.
 오른쪽 위에 보이는 톱니바귀 버튼을 눌러서 `repository` 설정에 들어가시고,
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/git-pages/0.png)

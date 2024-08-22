@@ -45,7 +45,6 @@ featured-img: git-pages.png
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/git-pages/7.png)
 
-
 <br />
 갈색 점이 있던 곳도 초록색 체크 표시로 바뀌어있을거에요.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 12 이상에서 PendingIntent 사용시 오류"
+title: "안드로이드 12 이상에서 PendingIntent 사용시 오류"
 featured-img: android12-pendingintent.png
 ---
 

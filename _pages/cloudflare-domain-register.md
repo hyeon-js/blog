@@ -109,4 +109,5 @@ featured-img: cloudflare-domain-register.png
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/cloudflare-domain-register/14.png)
 
-
+다른 곳들에서는 도메인을 기간을 2년 이상으로 해서 결제하면 할인해주는 경우가 있는데, `Cloudflare`는 그런 것이 없어요.
+하지만 사실상 원가로만 받아가기 때문에, 다른 곳에서 할인받은 가격이 `Cloudflare`보다 비싸요.

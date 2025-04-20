@@ -35,10 +35,30 @@ featured-img: archlinux-dualboot.jpg
 
 # 윈도우 파티션 용량 줄이기
 
-윈도우가 설치되어 있는 파티션의 공간을 줄일거에요. 일단 여기서는 전 `16GiB`를 줄였어요.
-줄이는 방법은 [여기를](./windows-disk-partition) 참고하시면 되는거에요.
+윈도우가 설치되어 있는 파티션의 공간을 줄일거에요.
+화면 왼쪽 하단이나 그 근처에 있을 윈도우 로고를 마우스 오른쪽 클릭한 뒤에 `디스크 관리`를 눌러주세요.
+
+![image]({{site.url}}{{site.baseurl}}/assets/images/archlinux-dualboot/38.png)
+
+<br />
+줄이려는 파티션 위에서 마우스 오른쪽 클릭한 뒤에 `볼륨 축소` 클릭
+
+![image]({{site.url}}{{site.baseurl}}/assets/images/archlinux-dualboot/39.png)
+
+<br />
+그러면 줄일 수 있는 크기 같은게 나오고, 거기서 얼마나 줄일지 입력하시면 되는거에요.
 
 ![image]({{site.url}}{{site.baseurl}}/assets/images/archlinux-dualboot/5.png)
+
+<br />
+일단 여기서는 전 `16GiB`를 줄였어요.
+
+![image]({{site.url}}{{site.baseurl}}/assets/images/archlinux-dualboot/41.png)
+
+<br />
+
+윈도우는 용량을 표시할 때 `1024`로 나뉘눟고 `2진 접두어` 대신 `10진 접두어`를 사용해요.
+따라서, 저기서는 `16GB`라고 뜨지만, 실제로는 `16GiB`에요.
 
 ***
 <br />

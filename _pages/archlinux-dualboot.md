@@ -53,7 +53,7 @@ featured-img: archlinux-dualboot.jpg
 <br />
 일단 여기서는 전 `16GiB`를 줄였어요.
 
-![image]({{site.url}}{{site.baseurl}}/assets/images/archlinux-dualboot/41.png)
+![image]({{site.url}}{{site.baseurl}}/assets/images/archlinux-dualboot/40.png)
 
 <br />
 
